@@ -1,7 +1,7 @@
 # Fairmont-Multimethods
 
 Fairmont-Crypto is a JavaScript library providing crypto-related functions in JavaScript that can be used easily in a functional style.
-It's part of the [Fairmont][] library. 
+It's part of the [Fairmont][] library.
 You can use it by itself, or simply as part of the [Fairmont][] library.
 
 ## Installation
