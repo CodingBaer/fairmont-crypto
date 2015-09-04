@@ -15,3 +15,6 @@ Amen.describe "Crypto Functions", (context) ->
       "SXQgd2FzIGEgZGFyayBhbmQgc3Rvcm15IG5pZ2h0"
 
   context.test "base64url"
+    {base64url} = Crypto
+    assert (base64url "http://www.google.com") ==
+      "aHR0cDovL3d3dy5nb29nbGUuY29t"
